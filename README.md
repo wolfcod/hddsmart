@@ -1,2 +1,4 @@
 # hddsmart
-HDD Smart Test
+
+HDD-Smart is a POC for dealing with Hard Drive and their firmware.
+
